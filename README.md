@@ -8,4 +8,6 @@ The app shows output accoding to your recipe type like Indian,Chinese,Italian Am
 The model has been deployed on azure .
 
 You can check here 
+
 recipegeneratorpalm.azurewebsites.net
+
